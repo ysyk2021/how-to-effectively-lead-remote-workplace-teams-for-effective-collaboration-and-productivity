@@ -12,4 +12,4 @@ Throughout this book, we will draw on real-world examples of successful remote w
 
 Whether you are a manager, team leader, or business owner, this book will provide valuable insights and strategies for leading remote workplace teams successfully. So let's dive in and explore the world of remote work and how to effectively lead remote workplace teams for effective collaboration and productivity.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
