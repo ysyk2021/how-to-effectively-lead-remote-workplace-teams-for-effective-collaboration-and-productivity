@@ -1,5 +1,3 @@
-The Benefits of Remote Work
-=======================================================================
 
 Remote work has become increasingly popular in recent years, and for good reason. There are many benefits to remote work, both for employees and employers. In this chapter, we will explore some of the key benefits of remote work.
 

@@ -1,5 +1,3 @@
-Encouraging Positive Behaviors and Attitudes
-====================================================================================
 
 Building a culture of trust is essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore strategies for encouraging positive behaviors and attitudes that support trust-building among team members.
 

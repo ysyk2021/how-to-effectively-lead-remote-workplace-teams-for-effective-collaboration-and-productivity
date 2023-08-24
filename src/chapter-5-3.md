@@ -1,5 +1,3 @@
-Resolving Conflicts Constructively
-==============================================================================
 
 Developing effective communication skills is essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore strategies for resolving conflicts constructively in a remote work environment.
 

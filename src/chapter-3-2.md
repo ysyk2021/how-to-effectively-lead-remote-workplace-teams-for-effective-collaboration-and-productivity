@@ -1,5 +1,3 @@
-The Costs of Poor Remote Team Leadership
-=====================================================================================================
 
 Poor remote team leadership can have significant costs for both the organization and its employees. In this chapter, we will explore the costs associated with poor remote team leadership.
 

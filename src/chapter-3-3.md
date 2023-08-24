@@ -1,5 +1,3 @@
-The Risks to Employee Morale, Productivity, and Retention
-======================================================================================================================
 
 Leading remote workplace teams presents unique challenges that can impact employee morale, productivity, and retention. In this chapter, we will explore some of the key challenges associated with leading remote teams and strategies for addressing them.
 

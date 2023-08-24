@@ -1,5 +1,3 @@
-The Role of Leadership in Supporting Remote Work
-===============================================================================
 
 Effective remote leadership requires a focus on supporting remote work and promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore the role of leadership in supporting remote work and strategies for effective leadership support.
 

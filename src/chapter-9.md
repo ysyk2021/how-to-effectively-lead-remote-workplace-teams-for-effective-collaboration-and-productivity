@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 As remote work continues to evolve, the future of leading remote workplace teams will require innovative strategies and approaches. In this chapter, we will explore potential future directions for leading remote teams.
 

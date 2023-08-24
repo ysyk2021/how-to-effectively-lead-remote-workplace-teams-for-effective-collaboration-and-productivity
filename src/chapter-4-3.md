@@ -1,5 +1,3 @@
-Building Relationships with Remote Team Members
-=======================================================================================
 
 Building a culture of trust is essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore strategies for building relationships with remote team members to foster a sense of trust and support.
 

@@ -1,5 +1,3 @@
-Creating an Environment that Fosters Trust
-==================================================================================
 
 Building a culture of trust is essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore strategies for creating an environment that fosters trust among team members.
 

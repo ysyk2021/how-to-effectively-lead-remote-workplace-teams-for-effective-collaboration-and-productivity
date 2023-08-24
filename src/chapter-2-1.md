@@ -1,5 +1,3 @@
-What are Remote Workplace Teams?
-============================================================================
 
 Remote workplace teams are groups of individuals who collaborate and work together on projects and initiatives, but are not physically co-located in the same office or workspace. Instead, remote workplace teams rely on technology and virtual communication tools to connect and collaborate with one another.
 

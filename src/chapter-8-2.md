@@ -1,5 +1,3 @@
-Modeling Effective Remote Leadership
-===================================================================
 
 Modeling effective remote leadership is essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore strategies for modeling effective remote leadership and promoting positive leadership behaviors.
 

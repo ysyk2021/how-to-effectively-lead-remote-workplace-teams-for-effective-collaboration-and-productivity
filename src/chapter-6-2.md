@@ -1,5 +1,3 @@
-Managing Stress
-======================================================
 
 Managing stress is essential for promoting team wellness and productivity among remote workplace teams. In this chapter, we will explore strategies for managing stress in a remote work environment.
 

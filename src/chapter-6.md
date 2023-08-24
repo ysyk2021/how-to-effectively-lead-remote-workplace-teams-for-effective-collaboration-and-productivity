@@ -1,5 +1,3 @@
-Chapter 5: Prioritizing Team Wellness
-=====================================
 
 Prioritizing team wellness is essential for promoting collaboration and productivity among remote teams. In this chapter, we will explore strategies for promoting physical and mental health, managing stress, and balancing work and personal life in a remote work environment.
 

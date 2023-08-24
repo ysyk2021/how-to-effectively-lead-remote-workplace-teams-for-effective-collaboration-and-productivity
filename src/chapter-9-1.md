@@ -1,5 +1,3 @@
-Innovations in Leading Remote Workplace Teams
-===========================================================================
 
 As remote work becomes more prevalent, leaders must continue to innovate and adapt their strategies for leading remote workplace teams. In this chapter, we will explore some future directions for leading remote teams and the innovations that may shape the future of work.
 

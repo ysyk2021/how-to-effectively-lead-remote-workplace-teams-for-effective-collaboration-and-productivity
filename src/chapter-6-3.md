@@ -1,5 +1,3 @@
-Balancing Work and Personal Life
-=======================================================================
 
 In a remote workplace, it can be challenging to maintain a healthy balance between work and personal life. In this chapter, we will explore strategies for prioritizing team wellness and achieving a healthy balance between work and personal life.
 

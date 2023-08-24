@@ -1,5 +1,3 @@
-Promoting Physical and Mental Health
-===========================================================================
 
 Prioritizing team wellness is essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore strategies for promoting physical and mental health among remote team members.
 

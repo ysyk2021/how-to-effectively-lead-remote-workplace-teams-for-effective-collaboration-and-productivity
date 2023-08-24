@@ -1,5 +1,3 @@
-Chapter 2: The Challenges of Leading Remote Workplace Teams
-===========================================================
 
 Leading remote workplace teams presents unique challenges that require effective leadership strategies. In this chapter, we will explore the challenges of leading remote teams and the costs of poor remote team leadership.
 

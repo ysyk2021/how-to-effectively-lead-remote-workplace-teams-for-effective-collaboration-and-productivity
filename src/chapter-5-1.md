@@ -1,5 +1,3 @@
-Building Effective Communication Skills
-===================================================================================
 
 Effective communication is essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore strategies for developing communication skills that support effective communication in a remote work environment.
 

@@ -1,5 +1,3 @@
-Encouraging Active Listening
-========================================================================
 
 Effective communication skills are essential for promoting collaboration and productivity among remote workplace teams. In this chapter, we will explore the importance of active listening in a remote work environment and strategies for encouraging it.
 

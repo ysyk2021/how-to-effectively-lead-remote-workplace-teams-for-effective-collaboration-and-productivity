@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 Leadership plays a critical role in supporting remote work and promoting effective collaboration and productivity among remote teams. In this chapter, we will explore the role of leadership in supporting remote work and strategies for modeling effective remote leadership.
 

@@ -1,5 +1,3 @@
-Purpose of the Book
-=================================
 
 The purpose of this book is to provide practical advice and insights for leaders and managers who are leading remote workplace teams. As remote work becomes increasingly popular, effective leadership strategies are essential for promoting collaboration and productivity among remote teams.
 
