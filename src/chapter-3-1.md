@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Challenges of Leading Remote Teams
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Leading remote teams presents unique challenges that require special attention and focused leadership. In this chapter, we will explore the key challenges of leading remote teams and discuss strategies to effectively address them.
 

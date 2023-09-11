@@ -1,5 +1,4 @@
-Chapter: Encouraging Active Listening
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of active listening in leading remote workplace teams effectively. Active listening is a crucial skill that enhances communication, builds trust, and promotes collaboration. By encouraging active listening, leaders can foster a productive and engaged remote team environment.
 

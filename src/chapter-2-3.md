@@ -1,5 +1,4 @@
-Chapter: Examples of Successful Remote Work Strategies in Practice
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world examples of successful remote work strategies implemented by organizations to promote collaboration and productivity within their remote workplace teams. These examples highlight various approaches and practices that have proven effective in maximizing the potential of remote teams.
 

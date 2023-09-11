@@ -1,5 +1,4 @@
-Chapter: What are Remote Workplace Teams?
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Remote workplace teams refer to groups of people who work together to achieve common goals, but are physically located in different geographic locations. These teams rely heavily on technology to communicate and collaborate, as team members are not co-located in a traditional office setting. In this chapter, we will explore the characteristics of remote workplace teams and discuss their advantages and challenges.
 

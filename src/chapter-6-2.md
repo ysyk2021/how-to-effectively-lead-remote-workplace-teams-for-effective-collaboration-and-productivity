@@ -1,5 +1,4 @@
-Chapter: Managing Stress in Leading Remote Workplace Teams for Effective Collaboration and Productivity
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of managing stress as a remote team leader to promote effective collaboration and productivity. We will discuss the impact of stress on teams, techniques for managing stress, and strategies for creating a healthy work environment.
 

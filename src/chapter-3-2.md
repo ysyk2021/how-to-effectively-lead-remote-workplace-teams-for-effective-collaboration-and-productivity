@@ -1,5 +1,4 @@
-Chapter: The Costs of Poor Remote Team Leadership
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the costs of poor remote team leadership and the negative impacts it can have on collaboration, productivity, and employee well-being. By understanding the consequences of poor leadership, leaders can take proactive steps to optimize their remote work practices and ensure a positive work environment.
 

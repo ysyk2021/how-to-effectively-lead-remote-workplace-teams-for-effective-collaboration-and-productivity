@@ -1,5 +1,4 @@
-Chapter: Encouraging Positive Behaviors and Attitudes
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Encouraging positive behaviors and attitudes is essential for effective leadership and team success in a remote workplace. In this chapter, we will explore strategies to foster positive behaviors and attitudes within remote teams, which contribute to collaboration, productivity, and overall team satisfaction.
 

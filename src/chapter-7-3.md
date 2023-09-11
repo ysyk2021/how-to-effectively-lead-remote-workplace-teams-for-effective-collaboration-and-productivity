@@ -1,5 +1,4 @@
-Chapter: Measuring the Effectiveness of Remote Work Strategies
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of measuring the effectiveness of remote work strategies and the key metrics that leaders can use to evaluate collaboration and productivity in remote workplace teams. By implementing effective measurement methods, leaders can gain insights into the impact of their strategies and make data-driven decisions to optimize remote work outcomes.
 

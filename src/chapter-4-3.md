@@ -1,5 +1,4 @@
-Chapter: Building Relationships with Remote Team Members
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of building strong relationships with remote team members and provide strategies to foster connections and collaboration. By implementing these strategies, leaders can create a cohesive and engaged remote team.
 

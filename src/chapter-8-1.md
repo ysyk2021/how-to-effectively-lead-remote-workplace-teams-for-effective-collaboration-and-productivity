@@ -1,5 +1,4 @@
-Chapter: The Role of Leadership in Supporting Remote Work
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Remote work has become increasingly prevalent, and effective leadership plays a crucial role in supporting and maximizing the potential of remote teams. In this chapter, we will explore the key responsibilities and strategies that leaders should adopt to successfully support remote work and facilitate collaboration, productivity, and success.
 

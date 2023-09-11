@@ -1,5 +1,4 @@
-Chapter: Resolving Conflicts Constructively
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Conflicts are an inevitable part of any workplace, whether in-person or remote. In this chapter, we will explore strategies for effectively resolving conflicts within remote workplace teams. By addressing conflicts constructively, leaders can foster a positive team environment, enhance collaboration, and maintain productivity.
 

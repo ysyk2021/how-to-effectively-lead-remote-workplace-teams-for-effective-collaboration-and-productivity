@@ -1,5 +1,4 @@
-Chapter: The Benefits of Remote Work
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Remote work, also known as telecommuting or teleworking, has become increasingly popular in recent years. In this chapter, we will explore the numerous benefits that remote work offers to individuals and organizations alike. Understanding these benefits can help leaders effectively lead remote workplace teams and harness the potential of remote work for enhanced collaboration and productivity.
 

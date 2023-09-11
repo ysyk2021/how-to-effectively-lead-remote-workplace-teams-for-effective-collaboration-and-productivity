@@ -1,5 +1,4 @@
-Chapter: Overcoming Barriers to Effective Implementation
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common barriers that leaders may encounter when implementing remote workplace strategies for effective collaboration and productivity. By understanding and addressing these barriers, leaders can navigate challenges and ensure successful implementation of their remote work initiatives.
 

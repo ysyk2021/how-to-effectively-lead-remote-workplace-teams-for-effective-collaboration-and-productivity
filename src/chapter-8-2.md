@@ -1,5 +1,4 @@
-Chapter: Modeling Effective Remote Leadership
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the key qualities and practices that define effective remote leadership. As remote work becomes increasingly prevalent, leaders must adapt their leadership styles to foster collaboration, productivity, and success in a remote workplace. By modeling effective remote leadership, leaders can inspire their teams, cultivate a positive work culture, and drive exceptional results.
 

@@ -1,5 +1,4 @@
-Chapter: Innovations in Leading Remote Workplace Teams
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore innovative practices and technologies that can enhance remote team leadership, foster effective collaboration, and drive productivity. As the remote work landscape continues to evolve, embracing innovative approaches is crucial for leaders to stay ahead and optimize their remote teams' performance.
 

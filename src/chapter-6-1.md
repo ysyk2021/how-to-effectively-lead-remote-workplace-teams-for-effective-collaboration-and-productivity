@@ -1,5 +1,4 @@
-Chapter: Promoting Physical and Mental Health
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of promoting physical and mental health among remote workplace teams. We will explore the impact of physical and mental well-being on collaboration and productivity, as well as effective strategies to support team members' overall health.
 

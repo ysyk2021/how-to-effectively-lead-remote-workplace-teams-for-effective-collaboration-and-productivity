@@ -1,5 +1,4 @@
-Chapter: Building Effective Communication Skills
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of building effective communication skills for leading remote workplace teams. Effective communication is vital for fostering collaboration, trust, and productivity in remote work environments. By developing strong communication skills, leaders can overcome challenges and create a culture of open and transparent communication.
 
